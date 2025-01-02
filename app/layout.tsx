@@ -11,10 +11,9 @@ const inter = Nunito({
 
 export const metadata = {
   title: {
-    default: "Car Rental",
-    template: "%s",
+    default: "Cars Wanted Uk",
   },
-  description: "Car rental",
+  description: "We Buy Broken Ford EcoBoost Cars",
 };
 
 export default function RootLayout({
